@@ -2388,3 +2388,4 @@ zmaticoo.com,5135655,RESELLER
 google.com, pub-8607249541097375, DIRECT, f08c47fec0942fa0
 google.com, pub-9211759810106994, DIRECT, f08c47fec0942fa0
 tappx.com, vc8bae242, DIRECT, 9f375a07da0318ec
+google.com, pub-7897352328627076, DIRECT, f08c47fec0942fa0
